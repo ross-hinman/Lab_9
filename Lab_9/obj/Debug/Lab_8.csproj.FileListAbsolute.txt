@@ -1,0 +1,7 @@
+C:\Users\GC Student\Source\Repos\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\GC Student\Source\Repos\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\GC Student\Source\Repos\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\GC Student\Source\Repos\Lab_8\Lab_8\obj\Debug\Lab_8.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\GC Student\Source\Repos\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
